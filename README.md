@@ -1,5 +1,9 @@
 # Sentiment-Analysis - NLP
 
+Install PyTorch - see installation instructions on the PyTorch website - https://pytorch.org/get-started/locally/
+OR
+pip install torchtext
+
 IMDB Dataset used - http://ai.stanford.edu/~amaas/data/sentiment/ 
 
 Sentiment Analysis - Sentiment Analysis, as the name suggests, it means to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication. Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs. Her we perform it on movie reviews from IMDB dataset.
